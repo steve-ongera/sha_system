@@ -1,3 +1,4 @@
+// Navbar.jsx
 const PAGE_TITLES = {
   dashboard: 'Dashboard',
   members: 'Member Management',

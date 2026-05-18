@@ -1,3 +1,4 @@
+// Sidebar.jsx
 const NAV_ITEMS = [
   { key: 'dashboard', label: 'Dashboard', icon: 'bi-grid-1x2' },
   { key: 'members', label: 'Members', icon: 'bi-people' },
